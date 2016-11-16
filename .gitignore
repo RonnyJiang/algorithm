@@ -27,3 +27,12 @@
 *.exe
 *.out
 *.app
+/Sort/Sort.VC.VC.opendb
+/Sort/Sort.VC.db
+/Sort/Sort/Debug/Sort.tlog/Sort.lastbuildstate
+/Sort/Sort/Debug/Sort.tlog/link.write.1.tlog
+/Sort/Sort/Debug/Sort.tlog/link.read.1.tlog
+/Sort/Sort/Debug/Sort.tlog/link.command.1.tlog
+/Sort/Sort/Debug/Sort.tlog/CL.write.1.tlog
+/Sort/Sort/Debug/Sort.tlog/CL.read.1.tlog
+/Sort/Sort/Debug/Sort.tlog/CL.command.1.tlog
